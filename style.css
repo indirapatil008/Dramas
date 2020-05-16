@@ -1,0 +1,30 @@
+body{
+background-color:#000;
+font-family:montserrat;
+}
+.header{
+padding :0% 14%;
+background-color:#03DAC5;
+color:#fff;
+}
+.container-fluid{
+padding:3% 15%;
+background-color:#ff4c68;
+}
+h1{
+font-family: 'Mitr', sans-serif;
+font-size: 4rem;
+line-height:1.5;
+
+}
+
+.features{
+padding:3% 12%;
+}
+.feature-box{
+padding:0% 0% 0% 5%;
+
+}
+.nav-item{
+padding:0 30px;
+}
